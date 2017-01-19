@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "pixal",
-    "currentPage": "faq.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -248,44 +248,54 @@
             "size": "1024x576",
             "slides": [
               {
-                "src": "@PROJECT_PATH@/assets/images/1-2000x1333_1.jpg",
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1333-1-1024x576.png",
-                "title": "title 1",
-                "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/1-2000x1333-1-85x48.png",
-                "active": true
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/6-2000x1333_1.jpg",
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1333-1-1024x576.png",
-                "title": "title 2",
-                "text": "text 2",
-                "tooltip": "@PROJECT_PATH@/assets/images/6-2000x1333-1-85x48.png",
-                "active": false
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/3-2000x1333_1.jpg",
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1333-1-1024x576.png",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/3-2000x1333-1-85x48.png",
-                "active": false
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/5-2000x1333_1.jpg",
+                "src": "@PROJECT_PATH@/assets/images/6-2000x1333_2.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1333-1-1024x576.png",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1333-2-1024x576.png",
+                "title": "title 2",
+                "text": "text 2",
+                "tooltip": "@PROJECT_PATH@/assets/images/6-2000x1333-2-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/2-2000x1333.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1333-1024x576.png",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/2-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/5-2000x1333_2.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333-2-1024x576.png",
                 "title": "title 1",
                 "text": "text 1",
-                "tooltip": "@PROJECT_PATH@/assets/images/5-2000x1333-1-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/5-2000x1333-2-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333-1024x576.png",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/7-2000x1333-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/1-2000x1333_2.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1333-2-1024x576.png",
+                "title": "title 1",
+                "text": "text 1",
+                "tooltip": "@PROJECT_PATH@/assets/images/1-2000x1333-2-85x48.png"
               }
             ],
             "theme": "animated",
@@ -1934,6 +1944,11 @@
             "Extension"
           ],
           "_name": "extToggle1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "extToggle1-1m",
           "_params": {
             "tabs": "6",
@@ -1965,12 +1980,7 @@
           "title5": "<a role=\"button\" class=\"text-info collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-1m\" aria-expanded=\"false\" aria-controls=\"collapseFive\">Does Pixels Academy provide courses that guarantee a job?</a>",
           "text5": "<p>We don't guarantee any jobs, but we will train you to be a well-rounded, skilled professional and provide you with placement assistance. Students from all our previous batches have been placed successfully.</p>",
           "title6": "<a role=\"button\" class=\"text-info\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSixextToggle1-1m\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Do you have any online classes?</a>",
-          "text6": "<p>Sorry, we do not have any online courses, as of now.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text6": "<p>Sorry, we do not have any online courses, as of now.</p>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -1978,6 +1988,11 @@
             "Extension"
           ],
           "_name": "extToggle1",
+          "_styles": {
+            "P": {
+              "font-size": "12px"
+            }
+          },
           "_anchor": "extToggle1-1n",
           "_params": {
             "tabs": "3",
@@ -2009,12 +2024,7 @@
           "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFive\" aria-expanded=\"false\" aria-controls=\"collapseFive\">This is a accordion Title 5</a>",
           "text5": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
-          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>",
-          "_styles": {
-            "P": {
-              "font-size": "12px"
-            }
-          }
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
         },
         {
           "_styles": {
@@ -2276,6 +2286,14 @@
             "Extension"
           ],
           "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "extFeatures7-4j",
           "_params": {
             "paddingTop": 2,
@@ -2647,14 +2665,6 @@
               "size": 0,
               "color": "#000",
               "family": "socicon"
-            }
-          },
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
             }
           }
         },
@@ -10261,6 +10271,16 @@
             "Extension"
           ],
           "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#b8312f"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
           "_anchor": "extFeatures7-4q",
           "_params": {
             "paddingTop": "1",
@@ -10617,16 +10637,6 @@
               "color": "#000",
               "family": "socicon"
             }
-          },
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#b8312f"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            }
           }
         },
         {
@@ -10923,6 +10933,14 @@
             "Extension"
           ],
           "_name": "extTabs2",
+          "_styles": {
+            "H3": {
+              "color": "#b8312f"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "extTabs2-4s",
           "_params": {
             "tabs": "1",
@@ -10978,15 +10996,7 @@
           "title5": "Tab heading 5",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "title6": "Tab heading 6",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "_styles": {
-            "H3": {
-              "color": "#b8312f"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio."
         }
       ]
     },
@@ -12252,6 +12262,11 @@
             "Extension"
           ],
           "_name": "extForm3",
+          "_styles": {
+            "H2": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "extForm3-53",
           "_params": {
             "paddingTop": 1,
@@ -12325,12 +12340,7 @@
               }
             }
           },
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            }
-          }
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>"
         }
       ]
     }
